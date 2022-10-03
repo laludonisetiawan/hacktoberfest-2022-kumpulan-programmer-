@@ -1,4 +1,4 @@
-[hacktobers](https://hacktoberfest.com/)
+[hacktoberfest-2022](https://hacktoberfest.com/)
 
 # Special Event :tada:
 
